@@ -20,6 +20,8 @@ IAM deployment role ---> private S3 bucket
                            Visitor
 ```
 
+![alt text](image.png)
+
 ## Security decisions
 
 - S3 Block Public Access remains enabled.
